@@ -4,8 +4,8 @@ Creating models to handle an imbalanced binary classification problem.
 
 In here you will find three R files
 
-<p style="font-weight: bold;">get_clean.R:</p> <br> <br>
-      is as it says about cleaning the data. While the variables had no description, there was still a lot of missing data to be handled         as well as tasks such as checking correlations.
+get_clean.R: <br> <br>
+&ensp      is as it says about cleaning the data. While the variables had no description, there was still a lot of missing data to be handled         as well as tasks such as checking correlations.
       
 InsuranceProb.R:<br> <br>
       Here is where a majority of models were built including Logistic Regression, Trees and some very basic Neural Networks.
