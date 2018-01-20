@@ -2,7 +2,7 @@
 Creating models to handle an imbalanced binary classification problem.
 
 
-In here you will find three R files
+<p>In here you will find three R files</p>
 
 get_clean.R:<br> <br>
       is as it says about cleaning the data. While the variables had no description, there was still a lot of missing data to be handled         as well as tasks such as checking correlations.
